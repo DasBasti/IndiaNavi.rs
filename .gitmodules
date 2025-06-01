@@ -1,0 +1,3 @@
+[submodule "external/epd-waveshare"]
+	path = external/epd-waveshare
+	url = https://github.com/dasBasti/epd-waveshare.git
