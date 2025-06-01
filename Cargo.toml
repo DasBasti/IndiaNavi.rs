@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["firmware"]
+members = [ "app","firmware"]
 
 [workspace.package]
 version = "0.1.0"
